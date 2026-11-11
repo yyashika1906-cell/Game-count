@@ -1,0 +1,15 @@
+[
+  {"id": "img01", "niche": "natural", "file": "img01.jpg", "title": "Strawberry field", "object": "strawberry", "plural": "strawberries", "true_count": 8, "difficulty": "Easy"},
+  {"id": "img02", "niche": "natural", "file": "img02.jpg", "title": "Beetle hunt", "object": "beetle", "true_count": 6, "difficulty": "Easy"},
+  {"id": "img03", "niche": "natural", "file": "img03.jpg", "title": "Frogs in water", "object": "frog", "true_count": 7, "difficulty": "Medium"},
+  {"id": "img04", "niche": "natural", "file": "img04.jpg", "title": "Fish in water", "object": "fish", "plural": "fish", "true_count": 7, "difficulty": "Medium"},
+  {"id": "img05", "niche": "urban", "file": "img05.jpg", "title": "Parking lot", "object": "car", "true_count": 19, "difficulty": "Hard"},
+  {"id": "img06", "niche": "indoor", "file": "img06.jpg", "title": "Bookshelf", "object": "book", "true_count": 21, "difficulty": "Medium"},
+  {"id": "img07", "niche": "natural", "file": "img07.jpg", "title": "Daisy field", "object": "flower", "plural": "flowers", "true_count": 13, "difficulty": "Medium"},
+  {"id": "img08", "niche": "natural", "file": "img08.jpg", "title": "Birds in a tree", "object": "bird", "plural": "birds", "true_count": 8, "difficulty": "Easy"},
+  {"id": "img09", "niche": "natural", "file": "img09.jpg", "title": "Mushroom patch", "object": "mushroom", "true_count": 8, "difficulty": "Easy"},
+  {"id": "img10", "niche": "indoor", "file": "img10.jpg", "title": "Hidden keys", "object": "key", "plural": "keys", "true_count": 12, "difficulty": "Hard"},
+  {"id": "img11", "niche": "urban", "file": "img11.jpg", "title": "Alley", "object": "door", "plural": "doors", "true_count": 15, "difficulty": "Medium"},
+  {"id": "img12", "niche": "indoor", "file": "img12.jpg", "title": "Library", "object": "person", "plural": "people", "true_count": 11, "difficulty": "Medium"},
+  {"id": "img13", "niche": "urban", "file": "img13.jpg", "title": "Balloon Festival", "object": "balloon", "plural": "balloons", "true_count": 42, "difficulty": "Hard"}
+]
